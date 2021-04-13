@@ -1,0 +1,16 @@
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\bin\Debug\net5.0\ResponsiPemrograman3356.exe
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\bin\Debug\net5.0\ResponsiPemrograman3356.deps.json
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\bin\Debug\net5.0\ResponsiPemrograman3356.runtimeconfig.json
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\bin\Debug\net5.0\ResponsiPemrograman3356.runtimeconfig.dev.json
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\bin\Debug\net5.0\ResponsiPemrograman3356.dll
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\bin\Debug\net5.0\ref\ResponsiPemrograman3356.dll
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\bin\Debug\net5.0\ResponsiPemrograman3356.pdb
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\obj\Debug\net5.0\ResponsiPemrograman3356.csprojAssemblyReference.cache
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\obj\Debug\net5.0\ResponsiPemrograman3356.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\obj\Debug\net5.0\ResponsiPemrograman3356.AssemblyInfoInputs.cache
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\obj\Debug\net5.0\ResponsiPemrograman3356.AssemblyInfo.cs
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\obj\Debug\net5.0\ResponsiPemrograman3356.csproj.CoreCompileInputs.cache
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\obj\Debug\net5.0\ResponsiPemrograman3356.dll
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\obj\Debug\net5.0\ref\ResponsiPemrograman3356.dll
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\obj\Debug\net5.0\ResponsiPemrograman3356.pdb
+D:\Project C#\C# in Vs code\ResponsiPemrograman3356\obj\Debug\net5.0\ResponsiPemrograman3356.genruntimeconfig.cache
