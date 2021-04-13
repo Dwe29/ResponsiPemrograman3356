@@ -6,20 +6,20 @@ namespace ResponsiPemrograman3356
     {
         static void Main(string[] args)
         {
-            karyawan karyawan1 = new karyawan("Sutarman", "20113352", 5000000);
-            karyawan karyawan2 = new karyawan("Paidi", "20113315", 4000000);
+            karyawan karyawanA = new karyawan("Wahyu", "20113356", 3000000);
+            karyawan karyawanB = new karyawan("Dwi", "20113365", 4000000);
 
-            Console.WriteLine("NO   NIK / NAMA\t\t          Gaji ");
+            Console.WriteLine("No   Nik / Nama\t\t          Gaji ");
             Console.WriteLine("------------------------------------------");
-            Console.WriteLine("1. {0} {1}\t {2}", karyawan1.NIK, karyawan1.Nama, karyawan1.Gaji);
-            Console.WriteLine("2. {0} {1}\t {2}\t ", karyawan2.NIK, karyawan2.Nama, karyawan2.Gaji);
+            Console.WriteLine("1. {0} {1}\t {2}", karyawanA.Nik, karyawanA.Nama, karyawanA.GajiBulanan);
+            Console.WriteLine("2. {0} {1}\t {2}\t ", karyawanB.Nik, karyawanB.Nama, karyawanB.GajiBulanan);
             Console.WriteLine();
             Console.WriteLine("Alhamdulillah Naik Gaji 10%");
             Console.WriteLine();
-            Console.WriteLine("NO   NIK / NAMA\t\t          Gaji ");
+            Console.WriteLine("No   Nik / Nama\t\t          Gaji ");
             Console.WriteLine("----------------------------------------");
-            Console.WriteLine("1. {0} {1}\t {2}", karyawan1.NIK, karyawan1.Nama, karyawan1.Naik);
-            Console.WriteLine("2. {0} {1}\t {2}\t ", karyawan2.NIK, karyawan2.Nama, karyawan2.Naik);
+            Console.WriteLine("1. {0} {1}\t {2}", karyawanA.Nik, karyawanA.Nama, karyawanA.Naik);
+            Console.WriteLine("2. {0} {1}\t {2}\t ", karyawanB.Nik, karyawanB.Nama, karyawanB.Naik);
 
             Console.ReadKey();
         }
