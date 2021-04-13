@@ -12,14 +12,14 @@ namespace ResponsiPemrograman3356
             Console.WriteLine("No   Nik / Nama\t\t          Gaji ");
             Console.WriteLine("------------------------------------------");
             Console.WriteLine("1. {0} {1}\t {2}", karyawanA.Nik, karyawanA.Nama, karyawanA.GajiBulanan);
-            Console.WriteLine("2. {0} {1}\t {2}\t ", karyawanB.Nik, karyawanB.Nama, karyawanB.GajiBulanan);
+            Console.WriteLine("2. {0} {1}\t {2}", karyawanB.Nik, karyawanB.Nama, karyawanB.GajiBulanan);
             Console.WriteLine();
             Console.WriteLine("Alhamdulillah Naik Gaji 10%");
             Console.WriteLine();
             Console.WriteLine("No   Nik / Nama\t\t          Gaji ");
             Console.WriteLine("----------------------------------------");
-            Console.WriteLine("1. {0} {1}\t {2}", karyawanA.Nik, karyawanA.Nama, karyawanA.Naik);
-            Console.WriteLine("2. {0} {1}\t {2}\t ", karyawanB.Nik, karyawanB.Nama, karyawanB.Naik);
+            Console.WriteLine("1. {0} {1}\t {2}", karyawanA.Nik, karyawanA.Nama, karyawanA.naikGaji);
+            Console.WriteLine("2. {0} {1}\t {2}", karyawanB.Nik, karyawanB.Nama, karyawanB.naikGaji);
 
             Console.ReadKey();
         }

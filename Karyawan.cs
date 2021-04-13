@@ -7,7 +7,7 @@ namespace ResponsiPemrograman3356
         public string Nama { get; set; }
         public string Nik { get; set; }
         public int GajiBulanan { get; set; }
-        public int Naik { get; set; }
+        public int naikGaji { get; set; }
 
         public karyawan(string nama, string nik, int gaji)
         {
@@ -16,7 +16,12 @@ namespace ResponsiPemrograman3356
             if (gaji < 0)
             {
                 this.GajiBulanan = 0;
-                Naik = Convert.ToInt32((GajiBulanan * 1.1));
+                naikGaji = Convert.ToInt32((GajiBulanan * 1.1));
+            }
+            else
+            {
+                this.GajiBulanan = gaji;
+                naikGaji = Convert.ToInt32((GajiBulanan * 1.1));
             }
         }
     }
